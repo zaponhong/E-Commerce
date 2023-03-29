@@ -1,13 +1,13 @@
 <template>
   <HeaderView />
   <RouterView />
-  <!-- <FooterView /> -->
+  <FooterView />
 </template>
 
 <script>
 import { RouterLink, RouterView } from "vue-router";
 import HeaderView from "./components/icons/HeaderView.vue";
-// import FooterView from "./components/icons/FooterView.vue";
+import FooterView from "./components/icons/FooterView.vue";
 export default {
   data() {
     return {
@@ -17,6 +17,7 @@ export default {
   components: {
     // Index,
     HeaderView,
+    FooterView,
   },
 };
 </script>
