@@ -6,7 +6,7 @@
      <div class="left box">
        <div class="upper">
          <div class="topic" >About us</div>
-         <p>Unicorn SE, we provide you the best 
+         <p>EISY S C, we provide you the best 
           shopping experience with
           100% original products from store with benifits.
           Shopping while trusting.
@@ -19,18 +19,18 @@
            <a href="#"><i class="fas fa-phone-volume"></i>+855 23 880 880</a>
          </div>
          <div class="email">
-           <a href="#"><i class="fas fa-envelope"></i>unicornshoppingexpress@gmail.com</a>
+           <a href="#"><i class="fas fa-envelope"></i><a href="mailto:eisyshoppingcenter@gmail.com">eisyshoppingcenter@gmail.com</a></a>
          </div>
        </div>
      </div>
      <div class="middle box">
-       <div class="topic">Our Services</div>
-       <div><a href="#">Celine</a></div>
-       <div><a href="#">Channel</a></div>
-       <div><a href="#">Versace</a></div>
-       <div><a href="#">Hermes</a></div>
-       <div><a href="#">Delivery</a></div>
-       <div><a href="#">Hot Sales</a></div>
+       <div class="topic">Our Store Service</div>
+       <div><a href="#">CELINE</a></div>
+       <div><a href="#">CHANEL</a></div>
+       <div><a href="#">ZIMMERMANN</a></div>
+       <div><a href="#">AREA</a></div>
+       <div><a href="#">JIMMYCHOO</a></div>
+       <div><a href="#">MACH&MACH</a></div>
      </div>
      <div class="right box">
        <div class="topic">Email Us</div>
@@ -108,7 +108,7 @@ footer .content .right input[type="text"]{
   height: 45px;
   width: 100%;
   outline: none;
-  color: #000;
+  color: rgb(140, 82, 255);
   background: #000;
   border-radius: 5px;
   padding-left: 10px;
@@ -120,13 +120,13 @@ footer .content .right input[type="submit"]{
   width: 100%;
   font-size: 18px;
   color:black;
-  background: #eb2f06;
+  background: rgb(140, 82, 255);
   outline: none;
   border-radius: 5px;
   letter-spacing: 1px;
   cursor: pointer;
   margin-top: 12px;
-  border: 2px solid #eb2f06;
+  border: 2px solid #ce84f3;
   transition: all 0.3s ease-in-out;
 }
 .content .right input[type="submit"]:hover{
@@ -188,19 +188,4 @@ footer a:hover{
     padding-left: 0;
   }
 }
-
-  /* @import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
-footer {
-	position: fixed;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-  font-size: 20px;
-  font-family: Delicious Handrawn;
-  text-align: center;
-  justify-content: center;
-  display: flex;
-  background: linear-gradient(to right, #C9B1FF, #FFCAF2, #FFB2B1, #FFF3AD, #BCFFBC, #A2EDFF);
-  margin: auto;
-} */
 </style>

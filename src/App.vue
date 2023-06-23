@@ -2,6 +2,7 @@
   <HeaderView />
   <RouterView />
   <FooterView />
+  
 </template>
 
 <script>
