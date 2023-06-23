@@ -673,7 +673,7 @@ input[type="text"]{
   border: 2px solid #222222;
   color: rgb(140, 82, 255);
 }
-.celine{
+/* .celine{
   width: 100%;
   display: flex;
 }
@@ -686,6 +686,6 @@ input[type="text"]{
 .celine >div img{
   width: 100%;
   height: auto;
-}
+} */
 
 </style>
