@@ -62,10 +62,10 @@
 import {RouterLink} from 'vue-router'
 </script>
 
-<style >
+<style>
 @import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
 .sub_title {
   width: 100%;
   font-size: 40px;
@@ -169,6 +169,8 @@ input[type="text"]{
   float: right;
 
 }
+
+  
   
   .des {
     display: flex;

@@ -121,7 +121,9 @@
     
     
   </template>
-  
+  <script setup>
+  import {RouterLink} from 'vue-router'
+  </script>
   <style>
   .celine{
     margin-top: 20px;

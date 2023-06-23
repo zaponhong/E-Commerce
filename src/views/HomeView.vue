@@ -48,7 +48,9 @@
 
 
 </template>
-
+<script setup>
+import {RouterLink} from 'vue-router'
+</script>
 <!-- <script>
 function myFunction() {
     var input, filter, ul, li, a, i, txtValue;
@@ -69,6 +71,7 @@ function myFunction() {
 </script> -->
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
 .container .name {
   width: 100%;
   font-size: 40px;
@@ -90,6 +93,7 @@ function myFunction() {
   /* margin-right: 10%; */
 }
 /* --- */
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
   
   
   .des {

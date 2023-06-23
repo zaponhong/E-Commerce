@@ -5,11 +5,22 @@
   
 </template>
 
-<script setup>
-import {  RouterView } from 'vue-router'
+<script>
+import { RouterLink, RouterView } from "vue-router";
 import HeaderView from "./components/icons/HeaderView.vue";
 import FooterView from "./components/icons/FooterView.vue";
-
+export default {
+  data() {
+    return {
+      isCheckingOut: false,
+    };
+  },
+  components: {
+    // Index,
+    HeaderView,
+    FooterView,
+  },
+};
 </script>
 
 <style scoped>
