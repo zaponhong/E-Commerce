@@ -14,7 +14,7 @@
   <div class="celine">
     <div>
       <img src="../assets/image/celine1.jpg">
-      <p>ffff</p>
+      <!-- <p>ffff</p> -->
       <a href="cart">
         <svg xmlns="http://www.w3.org/2000/svg"  fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor"
           className="w-6 h-6" style="width:60px; height: 45px;">
