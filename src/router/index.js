@@ -25,8 +25,9 @@ const router = createRouter({
     {
       path: '/Zimmermann',
       name: 'Zimmermann',
-      component: import('../views/ZimmermannView.vue')
+      component: ()=>import('../views/ZimmermannView.vue')
     },
+    
     
     {
       path: '/Area',
