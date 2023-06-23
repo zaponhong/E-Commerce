@@ -14,12 +14,12 @@ const router = createRouter({
     {
       path: '/Celine',
       name: 'Celine',
-      component: import('../views/CelineView.vue')
+      component:()=> import('../views/CelineView.vue')
     },
     {
       path: '/Chanel',
       name: 'Chanel',
-      component: import('../views/ChanelView.vue')
+      component:()=> import('../views/ChanelView.vue')
     },
 
     {
@@ -31,23 +31,23 @@ const router = createRouter({
     {
       path: '/Area',
       name: 'Area',
-      component: import('../views/AreaView.vue')
+      component:()=> import('../views/AreaView.vue')
     },
   
     {
       path: '/Jimmychoo',
       name: 'Jimmychoo',
-      component: import('../views/JimmychooView.vue')
+      component:()=> import('../views/JimmychooView.vue')
     },
     {
       path: '/Mach&Mach',
       name: 'Mach&Mach',
-      component: import('../views/Mach&MachView.vue')
+      component:()=> import('../views/Mach&MachView.vue')
     },
     {
       path: '/shop',
       name: 'Shop',
-      component: import('../views/ShopView.vue')
+      component:()=> import('../views/ShopView.vue')
     },
 
 

@@ -62,7 +62,7 @@
 import {RouterLink} from 'vue-router'
 </script>
 
-<style>
+<style >
 @import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
@@ -169,8 +169,6 @@ input[type="text"]{
   float: right;
 
 }
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
-  
   
   .des {
     display: flex;
