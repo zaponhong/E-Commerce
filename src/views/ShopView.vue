@@ -12,6 +12,7 @@
     <div class="header-right">
         <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search the products.">
     </div>
+    <RouterLink :to="{name:'Home'}" ><h5> Home -> <RouterLink :to="{name:'Shop'}" ><h5> Shop -> </h5></RouterLink> </h5></RouterLink>
     <div class="celine">
       <div>
         <img src="../assets/image/jim1.png">
@@ -99,6 +100,7 @@
       </div>
     </div>
 
+
 </template>
 <script setup>
 import {RouterLink} from 'vue-router'
@@ -126,7 +128,7 @@ input[type="text"]{
   }
   .celine img {
     height: 200px;
-    width: 293px;
+    width: 300px;
     padding-left: 10%;
     padding-right: 10%;
   }

@@ -20,7 +20,7 @@
 	      </div>
       </div>
       <div>
-        <img src="../assets/image/jim1.png">
+        <img src="../assets/image/chanel2.jpg">
         <h2 class="pic-name">Celine</h2>
       
 		    <div class="pic-price">
@@ -28,7 +28,7 @@
 	      </div>
       </div>
       <div>
-        <img src="../assets/image/jim1.png">
+        <img src="../assets/image/chanel3.jpg">
         <h2 class="pic-name">Celine</h2>
       
 		    <div class="pic-price">
@@ -36,7 +36,7 @@
 	      </div>
       </div>
       <div>
-        <img src="../assets/image/jim1.png">
+        <img src="../assets/image/chanel4.jpg">
         <h2 class="pic-name">Celine</h2>
       
 		    <div class="pic-price">
@@ -44,7 +44,7 @@
 	      </div>
       </div>
       <div>
-        <img src="../assets/image/jim1.png">
+        <img src="../assets/image/chanel5.jpg">
         <h2 class="pic-name">Celine</h2>
       
 		    <div class="pic-price">
@@ -56,7 +56,7 @@
     </div>
     <div class="celine">
       <div>
-        <img src="../assets/image/jim1.png">
+        <img src="../assets/image/chanel6.jpg">
         <h2 class="pic-name">Celine</h2>
       
 		    <div class="pic-price">
@@ -64,7 +64,7 @@
 	      </div>
       </div>
       <div>
-        <img src="../assets/image/jim1.png">
+        <img src="../assets/image/chanel7.jpg">
         <h2 class="pic-name">Celine</h2>
       
 		    <div class="pic-price">
@@ -72,7 +72,7 @@
 	      </div>
       </div>
       <div>
-        <img src="../assets/image/jim1.png">
+        <img src="../assets/image/chanel8.jpg">
         <h2 class="pic-name">Celine</h2>
       
 		    <div class="pic-price">
@@ -80,7 +80,7 @@
 	      </div>
       </div>
       <div>
-        <img src="../assets/image/jim1.png">
+        <img src="../assets/image/chanel9.jpg">
         <h2 class="pic-name">Celine</h2>
       
 		    <div class="pic-price">
@@ -88,7 +88,7 @@
 	      </div>
       </div>
       <div>
-        <img src="../assets/image/jim1.png">
+        <img src="../assets/image/chanel10.jpg">
         <h2 class="pic-name">Celine</h2>
       
 		    <div class="pic-price">
@@ -113,7 +113,7 @@
   }
   .celine img {
     height: 200px;
-    width: 293px;
+    width: 300px;
     padding-left: 10%;
     padding-right: 10%;
   }

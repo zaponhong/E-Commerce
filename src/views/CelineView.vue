@@ -1,4 +1,5 @@
 <template>
+  <RouterLink :to="{name:'Home'}" ><h4> Home -> </h4></RouterLink>
   <div class="header">
     <form action="#">
       <RouterLink :to="{name:'Celine'}" >CELINE</RouterLink> 
@@ -13,15 +14,15 @@
     <div class="celine">
       <div>
         <img src="../assets/image/celine1.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Square Triomphe</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: $270.0,00$</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/celine2.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Celine</h4>
       
 		    <div class="pic-price">
 			    <div>Price: $10.00$</div>
@@ -29,7 +30,7 @@
       </div>
       <div>
         <img src="../assets/image/celine3.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Celine</h4>
       
 		    <div class="pic-price">
 			    <div>Price: $10.00$</div>
@@ -37,7 +38,7 @@
       </div>
       <div>
         <img src="../assets/image/celine4.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Celine</h4>
       
 		    <div class="pic-price">
 			    <div>Price: $10.00$</div>
@@ -45,7 +46,7 @@
       </div>
       <div>
         <img src="../assets/image/celine5.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Celine</h4>
       
 		    <div class="pic-price">
 			    <div>Price: $10.00$</div>
@@ -57,7 +58,7 @@
     <div class="celine">
       <div>
         <img src="../assets/image/celine6.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Celine</h4>
       
 		    <div class="pic-price">
 			    <div>Price: $10.00$</div>
@@ -65,7 +66,7 @@
       </div>
       <div>
         <img src="../assets/image/celine7.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Celine</h4>
       
 		    <div class="pic-price">
 			    <div>Price: $10.00$</div>
@@ -73,7 +74,7 @@
       </div>
       <div>
         <img src="../assets/image/celine8.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Celine</h4>
       
 		    <div class="pic-price">
 			    <div>Price: $10.00$</div>
@@ -81,7 +82,7 @@
       </div>
       <div>
         <img src="../assets/image/celine9.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Celine</h4>
       
 		    <div class="pic-price">
 			    <div>Price: $10.00$</div>
@@ -89,7 +90,7 @@
       </div>
       <div>
         <img src="../assets/image/celine10.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Celine</h4>
       
 		    <div class="pic-price">
 			    <div>Price: $10.00$</div>
@@ -113,7 +114,7 @@
   }
   .celine img {
     height: 200px;
-    width: 293px;
+    width: 300px;
     padding-left: 10%;
     padding-right: 10%;
   }

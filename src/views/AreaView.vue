@@ -12,14 +12,15 @@
   </div>
     <div class="celine">
       <div>
+        <!-- <button class="button-value" onclick="filterProduct('all')"><img src="../assets/image/area1.jpg"></button> -->
         <img src="../assets/image/area1.jpg">
         <h2 class="pic-name">Celine</h2>
-      
 		    <div class="pic-price">
 			    <div>Price: $10.00$</div>
 	      </div>
       </div>
       <div>
+        <!-- <button class="button-value" onclick="filterProduct('all')"><img src="../assets/image/area2.jpg"></button> -->
         <img src="../assets/image/area10.jpg">
         <h2 class="pic-name">Celine</h2>
       
@@ -113,7 +114,7 @@
   }
   .celine img {
     height: 200px;
-    width: 293px;
+    width: 300px;
     padding-left: 10%;
     padding-right: 10%;
   }

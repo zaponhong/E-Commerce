@@ -30,7 +30,7 @@
         <!-- <input type="button" value="Shop Products Now" style="margin-top: 70px;"> -->
         <!-- <input type="search" id="Shop Now"> -->
         <form action="#">
-          <RouterLink :to="{name:'Shop'}" >Shop Now</RouterLink> 
+          <RouterLink :to="{name:'Shop'}" ><input type="resett" value="Shop Now" style="margin-top: 70px;"></RouterLink> 
         </form> 
       </div>
       
@@ -118,8 +118,20 @@ function myFunction() {
     color:black;
     
   }
+  input[type=resett] {
+    background: linear-gradient(to right, #C9B1FF, #FFCAF2, #FFB2B1, #FFF3AD, #BCFFBC, #A2EDFF);
+    background-color: white;
+    border-color: black;
+    color: blue;
+    font-size: 15px;
+    /* padding: 10px 20px;
+    margin: 4px 2px; */
+    cursor: pointer;
+    float: right;
+    text-align: center;
+  }
   
-  .des input[type=submit], input[type=reset] {
+  .des input[type=submit]{
     background: linear-gradient(to right, #C9B1FF, #FFCAF2, #FFB2B1, #FFF3AD, #BCFFBC, #A2EDFF);
     background-color: white;
     border-color: black;

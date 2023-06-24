@@ -113,7 +113,7 @@
     }
     .celine img {
       height: 200px;
-      width: 293px;
+      width: 300px;
       padding-left: 10%;
       padding-right: 10%;
     }
