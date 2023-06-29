@@ -1,4 +1,9 @@
 <template>
+  <div class="link">
+    <RouterLink :to="{name:'Home'}" ><h5> Home ->  </h5></RouterLink>
+    <RouterLink :to="{name:'Shop'}" ><h5> Shop -> </h5></RouterLink>
+    <RouterLink :to="{name:'Mach&Mach'}" ><h5> Mach & Mach -> </h5></RouterLink>
+  </div>
   <div class="header">
     <form action="#">
       <RouterLink :to="{name:'Celine'}" >CELINE</RouterLink> 
@@ -105,6 +110,11 @@
   import {RouterLink} from 'vue-router'
   </script>
   <style>
+  .link {
+  width: 100%;
+  margin-top: 10px;
+  display: flex;
+ }
   .celine{
     margin-top: 20px;
     width: 100%;

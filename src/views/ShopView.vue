@@ -1,4 +1,8 @@
 <template>
+  <div class="link">
+    <RouterLink :to="{name:'Home'}" ><h5> Home ->  </h5></RouterLink>
+    <RouterLink :to="{name:'Shop'}" ><h5> Shop -> </h5></RouterLink>
+  </div>
     <div class="header">
         <form action="#">
             <RouterLink :to="{name:'Celine'}" >CELINE</RouterLink> 
@@ -12,7 +16,7 @@
     <div class="header-right">
         <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search the products.">
     </div>
-    <RouterLink :to="{name:'Home'}" ><h5> Home -> <RouterLink :to="{name:'Shop'}" ><h5> Shop -> </h5></RouterLink> </h5></RouterLink>
+    
     <div class="celine">
       <div>
         <img src="../assets/image/jim1.png">
@@ -120,6 +124,12 @@ input[type="text"]{
   border: 2px solid #222222;
   color: rgb(140, 82, 255);
 }
+.link {
+  width: 100%;
+  margin-top: 10px;
+  display: flex;
+ }
+
 .celine{
     margin-top: 20px;
     width: 100%;
@@ -142,5 +152,6 @@ input[type="text"]{
   .pic-name{
     padding-left: 11%;
   }
+
 
 </style>

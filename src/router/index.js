@@ -50,6 +50,11 @@ const router = createRouter({
       name: 'Shop',
       component:()=> import('../views/ShopView.vue')
     },
+    {
+      path: '/Black_Ordinary_Top',
+      name: 'Area1',
+      component:()=> import('../views/Area1View.vue')
+    },
 
 
   ]

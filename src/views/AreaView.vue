@@ -1,4 +1,9 @@
 <template>
+  <div class="link">
+    <RouterLink :to="{name:'Home'}" ><h5> Home -> </h5></RouterLink>
+    <RouterLink :to="{name:'Shop'}" ><h5> Shop -> </h5></RouterLink>
+    <RouterLink :to="{name:'Area'}" ><h5> Area -> </h5></RouterLink>
+  </div>
   <div class="header">
     <form action="#">
       <RouterLink :to="{name:'Celine'}" >CELINE</RouterLink> 
@@ -12,15 +17,13 @@
   </div>
     <div class="celine">
       <div>
-        <!-- <button class="button-value" onclick="filterProduct('all')"><img src="../assets/image/area1.jpg"></button> -->
-        <img src="../assets/image/area1.jpg">
+        <RouterLink :to="{name:'Area1'}" ><img src="../assets/image/area1.jpg"></RouterLink>
         <h2 class="pic-name">Celine</h2>
 		    <div class="pic-price">
 			    <div>Price: $10.00$</div>
 	      </div>
       </div>
       <div>
-        <!-- <button class="button-value" onclick="filterProduct('all')"><img src="../assets/image/area2.jpg"></button> -->
         <img src="../assets/image/area10.jpg">
         <h2 class="pic-name">Celine</h2>
       
@@ -106,6 +109,11 @@
   import {RouterLink} from 'vue-router'
   </script>
   <style>
+  .link {
+  width: 100%;
+  margin-top: 10px;
+  display: flex;
+ }
   .celine{
     margin-top: 20px;
     width: 100%;
