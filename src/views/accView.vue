@@ -16,7 +16,7 @@
       <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
   
       
-      <RouterLink :to="{name:'Shop'}" ><button type="submit" class="registerbtnn">Register</button></RouterLink>
+      <RouterLink :to="{name:'Home'}" ><button type="submit" class="registerbtnn">Register</button></RouterLink>
       <div>
       <p>Already have an account? <a href="#">Sign in</a>.</p>
     </div>
