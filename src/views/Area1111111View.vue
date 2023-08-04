@@ -2,8 +2,8 @@
     
     <div class="proo">
         <h5>Thank you for your purchase!</h5>
-        <h5>Hi Zapon Hong, we're getting your order ready to be shipped. We will notify you when it has been sent. </h5>
-        <h5>Zapon Hong, Phnom Penh Thmey, Phnom Penh, zaponhong2001@gmail.com, 023880880</h5>
+        <h5>Hi Hong Zapon, we're getting your order ready to be shipped. We will notify you when it has been sent. </h5>
+        <h5>Hong Zapon, Phnom Penh Thmey, Phnom Penh, zaponhong2001@gmail.com, 023880880</h5>
         <hr class="new4">
         <div class="pr">
             <h3>Order Summary</h3>
