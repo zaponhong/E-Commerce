@@ -43,9 +43,10 @@
               <b>1</b>
             </span>
           </h4>
-          <p>Vintage Top <span class="price">$700</span></p>
+          <p>Vintage Top <span class="price">700$</span></p>
+          <p>Vat <span class="price">70$</span></p>
         <hr>
-        <p>Total <span class="price" style="color:black"><b>$700</b></span></p>
+        <p>Total <span class="price" style="color:black"><b>700$</b></span></p>
       </div>
     </div>
   </div>

@@ -15,9 +15,9 @@
           <div class="col-50">
             <h3>Billing Address</h3>
             <label for="fname"><i class="fa fa-user"></i> Full Name</label>
-            <input type="text" id="fname" name="firstname" placeholder="Zapon Hong">
+            <input type="text" id="fname" name="firstname" placeholder="Lisa La">
             <label for="email"><i class="fa fa-envelope"></i> Email</label>
-            <input type="text" id="email" name="email" placeholder="zapon@gmail.com">
+            <input type="text" id="email" name="email" placeholder="ex@gmail.com">
             <label for="adr"><i class="fa fa-address-card-o"></i> Address</label>
             <input type="text" id="adr" name="address" placeholder="sensok">
             <label for="city"><i class="fa fa-institution"></i> City</label>
@@ -46,7 +46,7 @@
               <i class="fa fa-cc-discover" style="color:orange;"></i> -->
             </div>
             <label for="cname">Name on Card</label>
-            <input type="text" id="cname" name="cardname" placeholder="Zapon Hong">
+            <input type="text" id="cname" name="cardname" placeholder="Lisa La">
             <label for="ccnum">Credit card number</label>
             <input type="text" id="ccnum" name="cardnumber" placeholder="1111-2222-3333-4444">
             <label for="expmonth">Exp Month</label>
@@ -82,9 +82,10 @@
           <b>1</b>
         </span>
       </h4>
-      <p>Vintage Top <span class="price">$700</span></p>
+      <p>Vintage Top <span class="price">700$</span></p>
+      <p>Vat <span class="price">70$</span></p>
       <hr>
-      <p>Total <span class="price" style="color:black"><b>$700</b></span></p>
+      <p>Total <span class="price" style="color:black"><b>770$</b></span></p>
     </div>
   </div>
 </div>

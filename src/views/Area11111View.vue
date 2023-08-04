@@ -18,11 +18,11 @@
             <p>Phnom Penh Thmey, Sensok</p>
             <p>Phnom penh</p> 
             <RouterLink :to="{name:'Area111'}" >EDIT</RouterLink>
-            <label for="city"><i class="fa fa-shipping-fast"></i> Address</label>
+            <label for="city"><i class="fa fa-shipping-fast"></i> Shipping Method</label>
             <p>UPS 1 Day Air</p>
           </div>
           <RouterLink :to="{name:'Area1111'}" >EDIT</RouterLink>
-          <RouterLink :to="{name:'Area1'}" ><input type="submitt" value="Checkout" class="btn"></RouterLink>
+          <RouterLink :to="{name:'Area111111'}" ><input type="submitt" value="Checkout" class="btn"></RouterLink>
         </div>
       </div>
 
@@ -34,10 +34,11 @@
               <b>1</b>
             </span>
           </h4>
-        <p>Vintage Top <span class="price">$700</span></p>
-        <p>Shipping  <span class="price">$7</span></p>
+        <p>Vintage Top <span class="price">700$</span></p>
+        <p>Shipping  <span class="price">7$</span></p>
+        <p>Shipping  <span class="price">70.7$</span></p>
         <hr>
-        <p>Total <span class="price" style="color:black"><b>$707</b></span></p>
+        <p>Total <span class="price" style="color:black"><b>780.4$</b></span></p>
       </div>
     </div>
   </div>
