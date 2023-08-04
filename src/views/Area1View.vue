@@ -14,9 +14,9 @@
                 <h3>Colos:  Black</h3>
                 <h3 for="size">Select list:</h3>
                 <select class="form-control" id="size">
-                    <option>small</option>
-                    <option>midium</option>
-                    <option>big</option>
+                    <option>Small</option>
+                    <option>Midium</option>
+                    <option>Big</option>
                 </select>
                 <h3>Price: 350</h3>
                 <h3 for="qun">Qunity:</h3>

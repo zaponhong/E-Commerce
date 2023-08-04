@@ -31,7 +31,7 @@
                                      </div>
                                      <div class="cart_item_quantity cart_info_col">
                                          <div class="cart_item_title">Size</div>
-                                         <div class="cart_item_text">Small</div>
+                                         <div class="cart_item_text">Midium</div>
                                      </div>
                                      <div class="cart_item_price cart_info_col">
                                          <div class="cart_item_title">Price</div>
