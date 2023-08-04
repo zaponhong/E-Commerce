@@ -51,10 +51,36 @@ const router = createRouter({
       component:()=> import('../views/ShopView.vue')
     },
     {
-      path: '/Black_Ordinary_Top',
+      path: '/login',
+      name: 'Login',
+      component:()=> import('../views/accView.vue')
+    },
+    {
+      path: '/vintage_top',
       name: 'Area1',
       component:()=> import('../views/Area1View.vue')
     },
+    {
+      path: '/cart',
+      name: 'Area11',
+      component:()=> import('../views/Area11View.vue')
+    },
+    {
+      path: '/customer_information',
+      name: 'Area111',
+      component:()=> import('../views/Area111View.vue')
+    },
+    {
+      path: '/shipping',
+      name: 'Area1111',
+      component:()=> import('../views/Area1111View.vue')
+    },
+    {
+      path: '/checkout',
+      name: 'Area11111',
+      component:()=> import('../views/Area11111View.vue')
+    },
+    
 
 
   ]

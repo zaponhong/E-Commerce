@@ -17,92 +17,138 @@
         <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search the products.">
     </div>
     
-    <div class="celine">
+   <!-- celine -->
+   <div class="celine">
       <div>
-        <img src="../assets/image/jim1.png">
-        <h2 class="pic-name">Celine</h2>
+        <img src="../assets/image/celine1.jpg">
+        <h4 class="pic-name">Square Triomphe</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 2500</div>
 	      </div>
       </div>
       <div>
-        <img src="../assets/image/jim1.png">
-        <h2 class="pic-name">Celine</h2>
+        <img src="../assets/image/celine2.jpg">
+        <h4 class="pic-name">Black Royal</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 2750</div>
 	      </div>
       </div>
       <div>
-        <img src="../assets/image/jim1.png">
-        <h2 class="pic-name">Celine</h2>
+        <img src="../assets/image/celine3.jpg">
+        <h4 class="pic-name">Celine Necklace</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 750</div>
 	      </div>
       </div>
       <div>
-        <img src="../assets/image/jim1.png">
-        <h2 class="pic-name">Celine</h2>
+        <img src="../assets/image/celine4.jpg">
+        <h4 class="pic-name">Gray Bay</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 2000</div>
 	      </div>
       </div>
       <div>
-        <img src="../assets/image/jim1.png">
-        <h2 class="pic-name">Celine</h2>
+        <img src="../assets/image/celine5.jpg">
+        <h4 class="pic-name">Mini Celine</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 1800</div>
 	      </div>
       </div>
-     
-  
+     </div>
+
+     <!-- chanel -->
+     <div class="celine">
+      <div>
+        <img src="../assets/image/chanel1.jpg">
+        <h4 class="pic-name">Mintty pink</h4>
+      
+		    <div class="pic-price">
+			    <div>Price: 2400</div>
+	      </div>
+      </div>
+      <div>
+        <img src="../assets/image/chanel2.jpg">
+        <h4 class="pic-name">Black Oval</h4>
+      
+		    <div class="pic-price">
+			    <div>Price: 3000</div>
+	      </div>
+      </div>
+      <div>
+        <img src="../assets/image/chanel3.jpg">
+        <h4 class="pic-name">Golden Twin</h4>
+      
+		    <div class="pic-price">
+			    <div>Price: 3700</div>
+	      </div>
+      </div>
+      <div>
+        <img src="../assets/image/chanel4.jpg">
+        <h4 class="pic-name">Classic CC</h4>
+      
+		    <div class="pic-price">
+			    <div>Price: 3500</div>
+	      </div>
+      </div>
+      <div>
+        <img src="../assets/image/chanel5.jpg">
+        <h4 class="pic-name">Mini Box</h4>
+      
+		    <div class="pic-price">
+			    <div>Price: 2100</div>
+	      </div>
+      </div>
     </div>
+
+    <!-- zim -->
     <div class="celine">
-      <div>
-        <img src="../assets/image/jim1.png">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
+        <div>
+          <img src="../assets/image/zim1.jpg">
+          <h4 class="pic-name">Orange lace</h4>
+        
+              <div class="pic-price">
+                  <div>Price: 1660</div>
+            </div>
+        </div>
+        <div>
+          <img src="../assets/image/zim2.jpg">
+          <h4 class="pic-name">Pink V-Leg</h4>
+        
+              <div class="pic-price">
+                  <div>Price: 1780</div>
+            </div>
+        </div>
+        <div>
+          <img src="../assets/image/zim3.jpg">
+          <h4 class="pic-name">Golden Night</h4>
+        
+              <div class="pic-price">
+                  <div>Price: 2470</div>
+            </div>
+        </div>
+        <div>
+          <img src="../assets/image/zim4.jpg">
+          <h4 class="pic-name">Drib Dress</h4>
+        
+              <div class="pic-price">
+                  <div>Price: 3000</div>
+            </div>
+        </div>
+        <div>
+          <img src="../assets/image/zim5.jpg">
+          <h4 class="pic-name">Starry Night</h4>
+        
+              <div class="pic-price">
+                  <div>Price: 2400</div>
+            </div>
+        </div>
       </div>
-      <div>
-        <img src="../assets/image/jim1.png">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/jim1.png">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/jim1.png">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/jim1.png">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-    </div>
+
 
 
 </template>

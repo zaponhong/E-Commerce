@@ -16,94 +16,48 @@
     </form> 
   </div>
     <div class="celine">
+
       <div>
         <img src="../assets/image/mach1.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Lavender Heels</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 1700</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/mach2.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Green Heels</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 1400</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/mach5.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Pink Heels</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 1600</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/mach4.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Yellow Hells</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 1200</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/mach3.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">High Heels</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 1600</div>
 	      </div>
       </div>
-     
-  
-    </div>
-    <div class="celine">
-      <div>
-        <img src="../assets/image/mach6.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/mach7.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/mach8.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/mach9.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/mach10.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-    </div>
-    
-    
-    
+     </div>
     
   </template>
   <script setup>

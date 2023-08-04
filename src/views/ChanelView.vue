@@ -18,93 +18,45 @@
     <div class="celine">
       <div>
         <img src="../assets/image/chanel1.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Mintty pink</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 2400</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/chanel2.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Black Oval</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 3000</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/chanel3.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Golden Twin</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 3700</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/chanel4.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Classic CC</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 3500</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/chanel5.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Mini Box</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-     
-  
-    </div>
-    <div class="celine">
-      <div>
-        <img src="../assets/image/chanel6.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/chanel7.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/chanel8.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/chanel9.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/chanel10.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 2100</div>
 	      </div>
       </div>
     </div>
-    
-    
-    
-    
   </template>
   <script setup>
   import {RouterLink} from 'vue-router'

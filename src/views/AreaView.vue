@@ -18,92 +18,47 @@
     <div class="celine">
       <div>
         <RouterLink :to="{name:'Area1'}" ><img src="../assets/image/area1.jpg"></RouterLink>
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Vintage Top</h4>
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 350</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/area10.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Bow Purple</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 380</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/area3.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Long Shelf</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 200</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/area4.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Shirt Pur</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 400</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/area5.jpg">
-        <h2 class="pic-name">Celine</h2>
+        <h4 class="pic-name">Lace Blink</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 450</div>
 	      </div>
       </div>
      
   
     </div>
-    <div class="celine">
-      <div>
-        <img src="../assets/image/area6.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/area9.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/area2.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/area8.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/area7.jpg">
-        <h2 class="pic-name">Celine</h2>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-    </div>
-    
-    
-    
-    
+   
   </template>
   <script setup>
   import {RouterLink} from 'vue-router'

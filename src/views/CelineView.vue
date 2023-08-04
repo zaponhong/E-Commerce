@@ -21,7 +21,7 @@
         <h4 class="pic-name">Square Triomphe</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $2500$</div>
+			    <div>Price: 2500</div>
 	      </div>
       </div>
       <div>
@@ -29,7 +29,7 @@
         <h4 class="pic-name">Black Royal</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $2750$</div>
+			    <div>Price: 2750</div>
 	      </div>
       </div>
       <div>
@@ -37,70 +37,27 @@
         <h4 class="pic-name">Celine Necklace</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $750$</div>
+			    <div>Price: 750</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/celine4.jpg">
-        <h4 class="pic-name">Celine</h4>
+        <h4 class="pic-name">Gray Bay</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: 2000</div>
 	      </div>
       </div>
       <div>
         <img src="../assets/image/celine5.jpg">
-        <h4 class="pic-name">Celine</h4>
+        <h4 class="pic-name">Mini Celine</h4>
       
 		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
+			    <div>Price: $1800$</div>
 	      </div>
       </div>
-     
-  
-    </div>
-    <div class="celine">
-      <div>
-        <img src="../assets/image/celine6.jpg">
-        <h4 class="pic-name">Celine</h4>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/celine7.jpg">
-        <h4 class="pic-name">Celine</h4>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/celine8.jpg">
-        <h4 class="pic-name">Celine</h4>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/celine9.jpg">
-        <h4 class="pic-name">Celine</h4>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-      <div>
-        <img src="../assets/image/celine10.jpg">
-        <h4 class="pic-name">Celine</h4>
-      
-		    <div class="pic-price">
-			    <div>Price: $10.00$</div>
-	      </div>
-      </div>
-    </div>
+     </div>
+    
     
     
     

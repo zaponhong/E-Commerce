@@ -18,92 +18,45 @@
       <div class="celine">
         <div>
           <img src="../assets/image/zim1.jpg">
-          <h2 class="pic-name">Celine</h2>
+          <h4 class="pic-name">Orange lace</h4>
         
               <div class="pic-price">
-                  <div>Price: $10.00$</div>
+                  <div>Price: $1660$</div>
             </div>
         </div>
         <div>
           <img src="../assets/image/zim2.jpg">
-          <h2 class="pic-name">Celine</h2>
+          <h4 class="pic-name">Pink V-Leg</h4>
         
               <div class="pic-price">
-                  <div>Price: $10.00$</div>
+                  <div>Price: $1780$</div>
             </div>
         </div>
         <div>
           <img src="../assets/image/zim3.jpg">
-          <h2 class="pic-name">Celine</h2>
+          <h4 class="pic-name">Golden Night</h4>
         
               <div class="pic-price">
-                  <div>Price: $10.00$</div>
+                  <div>Price: $2470$</div>
             </div>
         </div>
         <div>
           <img src="../assets/image/zim4.jpg">
-          <h2 class="pic-name">Celine</h2>
+          <h4 class="pic-name">Drib Dress</h4>
         
               <div class="pic-price">
-                  <div>Price: $10.00$</div>
+                  <div>Price: $3000$</div>
             </div>
         </div>
         <div>
           <img src="../assets/image/zim5.jpg">
-          <h2 class="pic-name">Celine</h2>
+          <h4 class="pic-name">Starry Night</h4>
         
               <div class="pic-price">
-                  <div>Price: $10.00$</div>
-            </div>
-        </div>
-       
-    
-      </div>
-      <div class="celine">
-        <div>
-          <img src="../assets/image/zim6.jpg">
-          <h2 class="pic-name">Celine</h2>
-        
-              <div class="pic-price">
-                  <div>Price: $10.00$</div>
-            </div>
-        </div>
-        <div>
-          <img src="../assets/image/zim7.jpg">
-          <h2 class="pic-name">Celine</h2>
-        
-              <div class="pic-price">
-                  <div>Price: $10.00$</div>
-            </div>
-        </div>
-        <div>
-          <img src="../assets/image/zim8.jpg">
-          <h2 class="pic-name">Celine</h2>
-        
-              <div class="pic-price">
-                  <div>Price: $10.00$</div>
-            </div>
-        </div>
-        <div>
-          <img src="../assets/image/zim9.jpg">
-          <h2 class="pic-name">Celine</h2>
-        
-              <div class="pic-price">
-                  <div>Price: $10.00$</div>
-            </div>
-        </div>
-        <div>
-          <img src="../assets/image/zim10.jpg">
-          <h2 class="pic-name">Celine</h2>
-        
-              <div class="pic-price">
-                  <div>Price: $10.00$</div>
+                  <div>Price: $2400$</div>
             </div>
         </div>
       </div>
-      
-      
-      
       
     </template>
     <script setup>
